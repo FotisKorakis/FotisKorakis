@@ -3,7 +3,7 @@
 I am an undergraduate Computer Science student, with a strong passion for building software and crafting web experiences. 
 
 ###  About Me
--  Undergraduate student in **Computer Science**, currently working on my thesis.
+-  Undergraduate student in **Computer Science**.
 -  My main interests lie in **Software Development** and **Web Development**.
 -  Always eager to learn new technologies, solve problems, and build efficient applications.
 
