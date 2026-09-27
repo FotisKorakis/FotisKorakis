@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Fotis! 👋
 
-<!--
-**FotisKorakis/FotisKorakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate Computer Science student, with a strong passion for building software and crafting web experiences. 
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Undergraduate student in **Computer Science**, currently working on my thesis.
+- 💻 My main interests lie in **Software Development** and **Web Development**.
+- 🚀 Always eager to learn new technologies, solve problems, and build efficient applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+Here are the technologies and languages I currently work with:
+
+* **Programming Languages:** Java, C++, Python, JavaScript
+* **Web Development:** HTML, CSS
+* **Tools & Environments:** Git, GitHub
+
+### 📫 Let's Connect
+- **LinkedIn:** www.linkedin.com/in/fotis-korakis
+- **Email:** fotiskorakis28@gmail.com
